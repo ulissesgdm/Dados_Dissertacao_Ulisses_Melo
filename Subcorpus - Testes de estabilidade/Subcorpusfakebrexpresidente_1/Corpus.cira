@@ -1,0 +1,16 @@
+[corpus]
+pathout = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq)_corpus_1\Subcorpusfakebrexpresidente_1
+uuid = faec1a6e-5d35-48df-9530-358b64478dce
+encoding = utf-8
+formesnb = 4721
+ucinb = 231
+hapax = 2584 - 54.73 % des formes - 8.96 % des occurrences
+ucenb = 782
+meta = []
+originalpath = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq).txt
+corpus_name = Subcorpusfakebrexpresidente
+time = 0h 0m 1s
+date = Fri Nov 19 15:02:41 2021
+ira = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq)_corpus_1\Subcorpusfakebrexpresidente_1\Corpus.cira
+type = corpus
+occurrences = 28839
