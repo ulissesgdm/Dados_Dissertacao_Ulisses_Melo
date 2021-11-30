@@ -1,0 +1,25 @@
+[alceste]
+mincl = 0
+encoding = cp1252
+classif_mode = 1
+mode.patate = 0
+nbforme_uce = 0
+expressions = 1
+pathout = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq)_corpus_1\corpus -fake.br - FINAL (tratado iramuteq)_alceste_2
+uuid = 28f898d8-086e-41f0-960a-a06a732e158f
+svdmethod = irlba
+nbactives = 2709
+ira = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq)_corpus_1\corpus -fake.br - FINAL (tratado iramuteq)_alceste_2\Analyse.ira
+corpus = f644a829-284b-4c26-8c9a-bc2d9461058f
+type = alceste
+clnb = 6
+minforme = 2
+lem = 1
+eff_min_forme = 13
+nbcl = 4
+max_actives = 3000
+name = corpus -fake.br - FINAL (tratado iramuteq)_alceste_2
+nbcl_p1 = 10
+time = 0h 4m 38s
+tailleuc1 = 12
+tailleuc2 = 14
