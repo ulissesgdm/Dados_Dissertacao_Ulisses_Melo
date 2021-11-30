@@ -1,0 +1,16 @@
+[corpus]
+pathout = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq)_corpus_1\SubcorpusfakebrPolítico_1
+uuid = 0cf32396-a3dd-447f-a37e-b979bc3deaee
+encoding = utf-8
+formesnb = 4753
+ucinb = 263
+hapax = 2846 - 59.88 % des formes - 13.21 % des occurrences
+ucenb = 590
+meta = []
+originalpath = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq).txt
+corpus_name = SubcorpusfakebrPolítico
+time = 0h 0m 2s
+date = Fri Nov 19 15:38:05 2021
+ira = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq)_corpus_1\SubcorpusfakebrPolítico_1\Corpus.cira
+type = corpus
+occurrences = 21545

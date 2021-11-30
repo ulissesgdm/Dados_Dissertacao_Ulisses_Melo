@@ -1,0 +1,14 @@
+[spec]
+uuid = 8d6044d1-b399-4bca-bbdd-5a7c340fe027
+indice = hypergeo
+pathout = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq)_corpus_1\SubcorpusfakebrPolítico_1\corpus -fake.br - FINAL (tratado iramuteq)_spec_1
+clnb = 2
+encoding = cp1252
+mineff = 10
+lem = 1
+time = 0h 0m 4s
+typeformes = 0
+ira = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq)_corpus_1\SubcorpusfakebrPolítico_1\corpus -fake.br - FINAL (tratado iramuteq)_spec_1\Analyse.ira
+corpus = 0cf32396-a3dd-447f-a37e-b979bc3deaee
+type = spec
+name = corpus -fake.br - FINAL (tratado iramuteq)_spec_1

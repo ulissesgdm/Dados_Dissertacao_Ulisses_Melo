@@ -1,0 +1,16 @@
+[corpus]
+pathout = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq)_corpus_1\Subcorpusfakebrpaís_1
+uuid = 0fe814f7-7ba4-45b8-b9f6-e4d8ebe3b5da
+encoding = utf-8
+formesnb = 7060
+ucinb = 367
+hapax = 3900 - 55.24 % des formes - 9.79 % des occurrences
+ucenb = 1067
+meta = []
+originalpath = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq).txt
+corpus_name = Subcorpusfakebrpaís
+time = 0h 0m 1s
+date = Fri Nov 19 14:50:24 2021
+ira = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus -fake.br - FINAL (tratado iramuteq)_corpus_1\Subcorpusfakebrpaís_1\Corpus.cira
+type = corpus
+occurrences = 39854
