@@ -1,0 +1,25 @@
+[alceste]
+mincl = 0
+encoding = cp1252
+classif_mode = 1
+mode.patate = 0
+nbforme_uce = 0
+expressions = 1
+pathout = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\banco - fake.br - notícias verdadeiras (sem política)_corpus_2\banco - fake.br - notícias verdadeiras (sem política)_alceste_1
+uuid = 0c55ef1b-039a-4102-b550-d1fffc36af9c
+svdmethod = irlba
+nbactives = 2653
+ira = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\banco - fake.br - notícias verdadeiras (sem política)_corpus_2\banco - fake.br - notícias verdadeiras (sem política)_alceste_1\Analyse.ira
+corpus = 1b56a627-5c63-4adb-8ff0-e0ab85d58633
+type = alceste
+clnb = 4
+minforme = 2
+lem = 1
+eff_min_forme = 3
+tailleuc1 = 12
+max_actives = 3000
+name = banco - fake.br - notícias verdadeiras (sem política)_alceste_1
+nbcl_p1 = 10
+time = 0h 1m 51s
+nbcl = 4
+tailleuc2 = 14
