@@ -1,0 +1,25 @@
+[alceste]
+mincl = 0
+encoding = cp1252
+classif_mode = 1
+mode.patate = 0
+nbforme_uce = 0
+expressions = 1
+pathout = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus - fake.br - Final - notícias falsas (tratado)_corpus_1\corpus - fake.br - Final - notícias falsas (tratado)_alceste_1
+uuid = ecf7d1c4-fd54-4c77-8a6f-d7deec97a4b0
+svdmethod = irlba
+nbactives = 2347
+ira = C:\Users\uliss_000\OneDrive\Textos recomendados Nara\corpus - fake.br - Final - notícias falsas (tratado)_corpus_1\corpus - fake.br - Final - notícias falsas (tratado)_alceste_1\Analyse.ira
+corpus = 2fcfc447-2605-4c5a-8288-9641a8b0fa6c
+type = alceste
+clnb = 4
+minforme = 2
+lem = 1
+eff_min_forme = 3
+nbcl = 4
+max_actives = 3000
+name = corpus - fake.br - Final - notícias falsas (tratado)_alceste_1
+nbcl_p1 = 10
+time = 0h 1m 25s
+tailleuc1 = 12
+tailleuc2 = 14
