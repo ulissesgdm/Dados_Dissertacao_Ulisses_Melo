@@ -1,4 +1,0 @@
-dendro1.png;dendrogramme à partir de chd1
-arbre_1.png;chd1
-C:\\Users\\uliss_000\\OneDrive\\Textos recomendados Nara\\corpus - fake.br - Final - notícias verdadeiras (tratado)_corpus_1\\corpus - fake.br - Final - notícias verdadeiras (tratado)_alceste_1\\dendrogramme_1.png;Dendrogramme CHD1 - phylogram
-C:\\Users\\uliss_000\\OneDrive\\Textos recomendados Nara\\corpus - fake.br - Final - notícias verdadeiras (tratado)_corpus_1\\corpus - fake.br - Final - notícias verdadeiras (tratado)_alceste_1\\dendrogramme_2.png;Dendrogramme CHD1 - phylogram
