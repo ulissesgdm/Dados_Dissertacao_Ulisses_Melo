@@ -35,3 +35,5 @@ dendrogramme = Dendrogramas produzidos a partir da CHD
 
 afc = Análise Fatorial por Correspondência (AFC)
 
+OBS: Recomendamos o uso do programa RStudio para a replicação dos dados em R.
+
