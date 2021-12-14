@@ -1,0 +1,18 @@
+library(tidyverse)
+library(dplyr)
+library(readxl)
+
+#Criação dos gráficos em boxplot
+
+
+boxplot(Legibilidade_FK, ylab="Legibilidade FK", main=
+          "Boxplot - Legibilidade FK", border="black") 
+
+
+
+boxplot(escolaridade_fk, ylab="Escolaridade FK", main=
+          "Boxplot - Escolaridade FK", border="black") 
+
+
+boxplot(indice_cl, ylab="índice CL", main=
+          "Boxplot - Índice de Coleman-Liau", border="black") 
