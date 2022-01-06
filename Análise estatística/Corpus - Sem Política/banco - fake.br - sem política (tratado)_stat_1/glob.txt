@@ -1,0 +1,6 @@
+Resumo
+Number of texts : 139
+Number of occurrences : 124269
+Number of forms : 10732
+Número de hapax : 4862 (3.91%of occurrences - 45.30% of forms)
+Média de ocorrências por texto : 894.02
