@@ -4,15 +4,14 @@ library(readxl)
 
 #Criação dos gráficos em boxplot
 
-
 boxplot(Legibilidade_FK, ylab="Legibilidade FK", main=
-          "Boxplot - Legibilidade FK", border="black") 
-
+          "Boxplot - Legibilidade FK", border="black", cex.axis = 0.8) 
 
 
 boxplot(escolaridade_fk, ylab="Escolaridade FK", main=
-          "Boxplot - Escolaridade FK", border="black") 
+          "Boxplot - Escolaridade FK", border="black", cex.axis = 0.8) 
 
 
 boxplot(indice_cl, ylab="índice CL", main=
-          "Boxplot - Índice de Coleman-Liau", border="black") 
+          "Boxplot - Índice de Coleman-Liau", border="black", cex.axis = 0.8) 
+
