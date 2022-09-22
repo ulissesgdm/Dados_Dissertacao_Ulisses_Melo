@@ -1,0 +1,36 @@
+library(tidyverse)
+library(dplyr)
+library(readxl)
+library(readxl)
+
+
+
+url <- "https://github.com/ulissesgdm/Dados_Dissertacao_Ulisses_Melo/raw/main/Dados%20e%20Gr%C3%A1ficos%20-%20Legibilidade/FK%20Readability.xlsx"
+destfile <- "FK_20Readability.xlsx"
+curl::curl_download(url, destfile)
+FK_20Readability <- read_excel(destfile, 
+                               col_types = c("skip", "numeric", "numeric", "numeric")) 
+
+boxplot(FK_20Readability, ylab="FK Readability", main=
+          "Boxplot - FK Readability", border="black", cex.axis = 0.8) 
+
+
+url <- "https://github.com/ulissesgdm/Dados_Dissertacao_Ulisses_Melo/raw/main/Dados%20e%20Gr%C3%A1ficos%20-%20Legibilidade/Grade%20Level%20FK.xlsx"
+destfile <- "Grade_20Level_20FK.xlsx"
+curl::curl_download(url, destfile)
+Grade_20Level_20FK <- read_excel(destfile, 
+                                 col_types = c("skip", "numeric", "numeric", "numeric"))
+
+boxplot(Grade_20Level_20FK, ylab="FK Grade Level", main=
+          "Boxplot - FK Grade Level", border="black", cex.axis = 0.8) 
+
+
+library(readxl)
+url <- "https://github.com/ulissesgdm/Dados_Dissertacao_Ulisses_Melo/raw/main/Dados%20e%20Gr%C3%A1ficos%20-%20Legibilidade/CL%20Index.xlsx"
+destfile <- "CL_20Index.xlsx"
+curl::curl_download(url, destfile)
+CL_20Index <- read_excel(destfile, col_types = c("skip", 
+                                                 "numeric", "numeric", "numeric", "numeric"))
+
+boxplot(CL_20Index, ylab="CL Index", main=
+          "Boxplot - Coleman-Liau Index", border="black", cex.axis = 0.8) 
