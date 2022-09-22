@@ -1,0 +1,20 @@
+
+library(tidyverse)
+library(dplyr)
+library(readxl)
+
+
+#Criação dos gráficos em boxplot
+
+url <- "https://github.com/ulissesgdm/Dados_Dissertacao_Ulisses_Melo/raw/main/Subcorpus%20-%20Testes%20de%20estabilidade/stability_test.xlsx"
+destfile <- "stability_test.xlsx"
+curl::curl_download(url, destfile)
+stability_test <- read_excel(destfile, col_types = c("skip", 
+                                                     "numeric", "numeric", "numeric", "numeric", 
+                                                     "numeric", "numeric", "numeric", "numeric", 
+                                                     "numeric", "numeric", "numeric", "numeric", 
+                                                     "numeric", "numeric", "numeric", "numeric", 
+                                                     "numeric"))
+
+boxplot(stability_test, ylab="Concentration in Real News", main=
+          "Boxplot - Stability Tests", border="black", las = 2, cex.axis = 0.7) + lines(x = c(0,100), y = c(0,0))
